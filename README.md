@@ -19,10 +19,15 @@ Users can enter flower measurements through a Streamlit interface and instantly 
 ## 🚀 Features
 
 ✅ Data Preprocessing and Cleaning
+
 ✅ AdaBoost Classification Model
+
 ✅ Model Training and Evaluation
+
 ✅ Real-Time Prediction using Streamlit
+
 ✅ Interactive User Interface
+
 ✅ Beginner-Friendly Machine Learning Project
 
 ---
