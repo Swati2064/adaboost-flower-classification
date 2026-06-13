@@ -156,4 +156,3 @@ Prediction: Iris-setosa
 
 
 
-**#MachineLearning #AdaBoost #IrisDataset #Python #Streamlit #ScikitLearn #DataScience #AI**
